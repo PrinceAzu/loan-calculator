@@ -1,0 +1,27 @@
+/* General */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+
+body {
+    background-image: url(/img/shapelined-_JBKdviweXI-unsplash.jpg);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+}
+
+/* Card */
+
+#error {
+    display: none;
+}
+
+/* Loader & Results */
+
+.loading, .results {
+    display: none;
+}
